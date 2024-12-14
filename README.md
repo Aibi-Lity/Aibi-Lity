@@ -1,6 +1,6 @@
 # Aibi-lity
 
-Solidity codegen tool for efficient ABI encoding/decoding.
+Solidity codegen AI tool for efficient ABI encoding/decoding.
 
 Currently supports decoding calldata. Returndata decoding and ABI encoding are target features.
 
